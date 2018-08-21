@@ -1,0 +1,4 @@
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+../../../../../middleware/MTK/wifi_service/combo/module.mk:21: WIFI_LIB_FOLDER=wifi_inic
+/tmp/ccawVayc.s: Assembler messages:
+/tmp/ccawVayc.s:421: writing to APSR without specifying a bitmask is deprecated

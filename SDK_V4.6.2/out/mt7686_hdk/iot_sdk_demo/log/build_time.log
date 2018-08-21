@@ -1,0 +1,4 @@
+./build.sh mt7686_hdk iot_sdk_demo
+Start Build: Sun Aug 12 04:49:44 PDT 2018
+End Build: Sun Aug 12 04:51:09 PDT 2018
+TOTAL BUILD: PASS
